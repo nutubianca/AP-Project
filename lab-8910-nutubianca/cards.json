@@ -1,1 +1,0 @@
-{"1": {"py/object": "Domain.card.Card", "idEntitate": "1", "name": "as", "surname": "as", "CNP": "1111111111111", "birthday": {"py/object": "datetime.datetime", "__reduce__": [{"py/type": "datetime.datetime"}, ["B9EMDAAAAAAAAA=="]]}, "date_of_registration": {"py/object": "datetime.datetime", "__reduce__": [{"py/type": "datetime.datetime"}, ["B+UMDAAAAAAAAA=="]]}, "points": 24}}
